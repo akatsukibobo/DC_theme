@@ -2,18 +2,18 @@
 
 {} /* Background */
 .app {
-    background-image: url("https://i.pximg.net/img-original/img/2017/07/02/01/29/03/63660523_p0.jpg");
+    background-image: url("https://i.imgur.com/dedhCOA.jpg");
     background-size: cover !important;
     background-position: center;
 }
 .callout-backdrop {
     opacity:1 !important;
-    background: url("https://i.pximg.net/img-original/img/2016/08/30/19/38/45/58727050_p0.jpg");
+    background: url("https://i.imgur.com/TH5RR8j.png");
     background-size: cover;
     background-position: center;
 }
 .bda-backdrop {
-    background: url("https://i.pximg.net/img-original/img/2017/09/02/02/01/22/64742381_p0.jpg");
+    background: url("https://i.imgur.com/S6FPKlx.png");
     background-size: cover;
 }
 .layers,
